@@ -10,8 +10,8 @@ This project, "Les Recettes Wild", is the first group project by web development
 
 ## The purpose of this project is twofold:
 
-To provide a simple and accessible resource for students to find quick and easy recipes.
-To enhance our understanding and application of fundamental web development technologies, including HTML, CSS, and JavaScript.
+- To provide a simple and accessible resource for students to find quick and easy recipes.
+- To enhance our understanding and application of fundamental web development technologies, including HTML, CSS, and JavaScript.
 
 ## Features
 Easy-to-Follow Instructions: Each recipe includes step-by-step instructions suitable for beginners.
@@ -21,13 +21,9 @@ HTML: Structuring the content and layout of the web pages.
 CSS: Styling the web pages to create an appealing and user-friendly interface.
 JavaScript: Adding interactivity to the website, such as dynamic content updates.
 
-## Installation and Usage
-Clone the Repository: git clone https://github.com/yourusername/recipe-finder.git
-Navigate to the Project Directory: cd recipe-finder
-Open the Index File: Open index.html in your web browser to view the project.
 
-Acknowledgements
+## Acknowledgements
 We would like to thank our instructor (The Wild Code Schools, Paris) and peers for their support and guidance throughout the development of this project.
 
-License
+## License
 This project is licensed under the MIT License.
