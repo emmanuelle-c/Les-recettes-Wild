@@ -3,6 +3,9 @@
 ## Overview
 This project, "Les Recettes Wild", is the first group project by web development students after one month of studying code. Built by three people over a two-week period, it is designed to suggest easy-to-make recipes for students who don't have much time to cook. The primary aim is to develop technical skills in HTML, CSS, and the basics of JavaScript.
 
+## Check the website here : 
+https://emmanuelle-c.github.io/Les-recettes-Wild/
+
 ## Team Members
 * [Maxime Maufront](https://github.com/maximmft)
 * [Aude Sedillo](https://github.com/Dezau1995)
